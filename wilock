@@ -1,0 +1,4 @@
+sudo mv ~/pp2everyone/Proj/Deezer-custom-player/index.php ~/pp2everyone/Proj/Deezer-custom-player/indo.php
+sudo mv ~/OOPS/moviez/index.php ~/OOPS/moviez/indo.php
+sudo mv ~/OOPS/moviez/fake.html ~/OOPS/moviez/index.html
+echo The Download Platform is now Locked

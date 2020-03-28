@@ -1,0 +1,4 @@
+sudo mv ~/pp2everyone/Proj/Deezer-custom-player/indo.php ~/pp2everyone/Proj/Deezer-custom-player/index.php
+sudo mv ~/OOPS/moviez/indo.php ~/OOPS/moviez/index.php
+sudo mv ~/OOPS/moviez/index.html ~/OOPS/moviez/fake.html
+echo The Download Platform is now open
